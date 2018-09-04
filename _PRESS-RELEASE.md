@@ -17,33 +17,24 @@ Once the project moves into development, the press release can be used as a touc
  -->
 
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
   -HolaWeBHere "Hola we be here"
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
   -To all my fellow returnies looking for info in this new home county.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
   we know as returnies how lost someone can feel coming back to mexico. we want to provide some info links to goverment offices and organizations and your rights in mexico.
 
 ## Problem ##
-  > Describe the problem your product solves.
   you might not have ID. cops take advantage of you.need help with money and food. lost dont know location of places
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
   info on nessecary things you going to need. ID, $, yourrights, know the locations of resources.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
 Hola webe here you are not alone and it will get better.
 ## How to Get Started ##
-  > Describe how easy it is to get started.
 this is off some research i did when i first got to mexico.
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 thank you ididnt know where or who to ask for help.now i am better off with your help.
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
   hopefully you stay in touch and build a community with other in your shoes.
