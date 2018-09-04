@@ -1,7 +1,8 @@
-# WelcomeBack#
+# WelcomeBack
 WelcomeBack is a source for returnees, deportees and refugees upon their entry to Mexico
 
 #Description#
+
 WelcomeBack is a webpage that displays a list of resources form a database upon initial load; it also allows users to research for locations using Google Maps and showing the location
 
 #Instructions-
