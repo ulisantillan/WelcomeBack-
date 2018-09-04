@@ -1,0 +1,11 @@
+# node_modules
+node_modules
+
+# bundles
+client/dist/bundle.js
+
+#logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
