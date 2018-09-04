@@ -3,7 +3,7 @@ node_modules
 
 # bundles
 client/dist/bundle.js
-
+package-lock.json 
 #logs
 *.log
 npm-debug.log*
