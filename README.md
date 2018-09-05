@@ -23,6 +23,3 @@ For this project we have set up a local server using Express
 It will watch the files in your application directory and restart the web server (Express.js) automatically.
 ##Webpack:
 It has the ability to transpile all the .jsx files using the react and es2015 presets. It will take all the files and combined into a file called bundle.js Your bundle.js is linked via index.html
-
-#DO NOT-
-Do not modify the file located at server/index.js
