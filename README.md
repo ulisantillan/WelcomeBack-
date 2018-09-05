@@ -1,12 +1,12 @@
 # WelcomeBack
 * WelcomeBack is a source for returnees, deportees and refugees upon their entry to Mexico
 
-# Description#
+# Description
 
 * WelcomeBack is a webpage that displays a list of resources form a database upon initial load; it also allows users to research for locations using Google Maps and showing the location
 
 # Instructions-
-* 1.Perform a Git Fork on the repository
+*1.Perform a Git Fork on the repository
 * 2.Perform a Git Clone form your Git Hub Repo to create a local clone for the project
 * 3.Install nodemon by typing 'npm install -g nodemon'
 * 4.Install all the project dependencies by typing 'npm install'
