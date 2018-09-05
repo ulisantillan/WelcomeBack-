@@ -6,15 +6,15 @@
 * WelcomeBack is a webpage that displays a list of resources form a database upon initial load; it also allows users to research for locations using Google Maps and showing the location
 
 # Instructions
-1.Perform a Git Fork on the repository
-2.Perform a Git Clone form your Git Hub Repo to create a local clone for the project
-3.Install nodemon by typing 'npm install -g nodemon'
-4.Install all the project dependencies by typing 'npm install'
-5.In the same terminal window, type 'npm run start-dev'
-6.In a new terminal window, type 'npm run start'
-7.Open a browser window and enter http://localhost:3000 as the URL    and you should see the main page
-8.View all the files and folders
-9.Enjoy!
+* Perform a Git Fork on the repository
+* Perform a Git Clone form your Git Hub Repo to create a local clone for the project
+* Install nodemon by typing 'npm install -g nodemon'
+* Install all the project dependencies by typing 'npm install'
+* In the same terminal window, type 'npm run start-dev'
+* In a new terminal window, type 'npm run start'
+* Open a browser window and enter http://localhost:3000 as the URL    and you should see the main page
+* View all the files and folders
+* Enjoy!
 
 # Libraries-
 ## Express.js-
