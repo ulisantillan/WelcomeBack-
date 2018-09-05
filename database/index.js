@@ -1,14 +1,14 @@
 var mysql = require('mysql');
 
 var connection = mysql.createConnection({
-  host
-  user
-  password
-  database
+  host     : 'localhost',
+  user     :  'root',
+  password :  'password',
+  database :  ''
 });
 
 var selectAll = function(callback) {
-  connection.query('SELECT * FROM '/*database*/, function(err, results, fields) {
+  connection.query('SELECT * FROM sources', function(err, results, fields) {
     if(err) {
       callback(err, null);
     }else{
@@ -16,3 +16,4 @@ var selectAll = function(callback) {
     }
   });
 };
+module.exports.selectAll = selectAll;
