@@ -18,7 +18,7 @@
 
 # Libraries-
 ## Express.js-
-*For this project we have set up a local server using Express
+* For this project we have set up a local server using Express
 ## Nodemon:
 * It will watch the files in your application directory and restart the web server (Express.js) automatically.
 ## Webpack:
